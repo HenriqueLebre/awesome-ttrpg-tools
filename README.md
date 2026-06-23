@@ -103,6 +103,7 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 - [ChatGPT](https://chat.openai.com) — Great for brainstorming sessions, NPCs, and world lore.
 - [NovelAI](https://novelai.net) — AI storytelling tool with RPG-friendly features.
 - [AI Dungeon](https://aidungeon.com) — AI-powered text adventure / solo RPG.
+- [Auferet](https://auferet.com) — AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore.
 
 ## 🏘️ Communities
 
