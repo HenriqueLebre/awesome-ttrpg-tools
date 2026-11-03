@@ -101,6 +101,7 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 - [Ollama](https://ollama.ai) — Run LLMs locally for NPC generation, lore, and plot hooks.
 - [ChatGPT](https://chat.openai.com) — Great for brainstorming sessions, NPCs, and world lore.
+- [LoreKeeper](https://lore-keeper.com) — AI Game Master that runs your campaign with a real rules engine for dice and combat, solo or with up to 6 friends in the browser.
 - [NovelAI](https://novelai.net) — AI storytelling tool with RPG-friendly features.
 - [AI Dungeon](https://aidungeon.com) — AI-powered text adventure / solo RPG.
 
