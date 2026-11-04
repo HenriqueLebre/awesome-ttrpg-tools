@@ -57,6 +57,7 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 - [Campfire](https://campfirewriting.com) — Worldbuilding and writing tool with relationship maps.
 - [LegendKeeper](https://legendkeeper.com) — Wiki-style worldbuilding with an interactive atlas.
 - [Notion](https://notion.so) — Not RPG-specific, but many GMs use it for campaign wikis.
+- [RelationCanvas](https://relationcanvas.com/) — Browser relationship charts for NPCs and factions with labeled one-way links; export PNG/SVG, no signup.
 - [kanka.io](https://kanka.io) — Free, community-driven worldbuilding and campaign management.
 
 ## 💻 Virtual Tabletop (VTT)
