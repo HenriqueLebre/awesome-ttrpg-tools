@@ -77,6 +77,7 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 ## 📝 Note Taking & Organization
 
+- [Free DnD Session Prep Sheet](https://github.com/theodorecreatesco/free-dnd-session-prep-sheet) — Free printable and fillable one-page session prep worksheet for GMs (A4 and US Letter).
 - [Obsidian](https://obsidian.md) — Markdown-based knowledge base. Perfect for campaign notes with backlinks.
 - [Notion](https://notion.so) — Flexible workspace for session notes, NPCs, and lore.
 - [OneNote](https://onenote.com) — Free-form note taking with sections and pages.
