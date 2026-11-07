@@ -89,6 +89,7 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 - [Donjon Name Generator](https://donjon.bin.sh/fantasy/name/) — Quick fantasy name generator with multiple styles.
 - [ChatGPT / Ollama](https://ollama.ai) — Use local AI to generate names, backstories, and lore on the fly.
 - [NPC Name Generator](https://github.com/HenriqueLebre/npc-name-generator) — AI-powered NPC generator with backstories (shameless plug 🎲).
+- [RandomGeneratr](https://randomgeneratr.com/npc-generator) — Free NPC cards with names, motives, flaws, secrets, factions, and story hooks for tabletop preparation.
 
 ## 🎲 Dice Rollers
 
