@@ -33,6 +33,8 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 - [DungeonFog](https://dungeonfog.com) — Online map maker with a focus on beautiful battle maps.
 - [Watabou Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) — One-click procedural city maps.
 - [Dungeon Scrawl](https://dungeonscrawl.com) — Free, minimalist dungeon map tool.
+- [Ink & Torch](https://maps.rowhousesoftware.com) - Free one click battle maps (dungeon, cave, tavern, forest) from a seed word, with walls, doors and lights for your VTT.
+- [Hull & Hatch](https://decks.rowhousesoftware.com) - Free starship deck plan maker for sci-fi games, every deck on a grid with a numbered room key.
 
 ## 🎭 Character Creation
 
